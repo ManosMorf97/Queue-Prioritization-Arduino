@@ -1,4 +1,4 @@
-# QueuePriporitization_Arduino
+# Queue-Priporitization-Arduino
 
 
 When New is pressed a new client is entering(if less than 100 clients entered the day)
