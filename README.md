@@ -1,7 +1,7 @@
 # Queue-Prioritization-Arduino
 
 ## Demo
-Youtube link https://www.youtube.com/watch?v=zCcsRZaQZgM
+YouTube link https://www.youtube.com/watch?v=zCcsRZaQZgM
 
 When B is pressed a new client is entering(if less than 100 clients entered the day)
 
